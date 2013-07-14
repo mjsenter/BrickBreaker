@@ -1,2 +1,8 @@
-BrickBreaker/Library/
-BrickBreaker/Temp/
+BrickBreaker/Library/*
+BrickBreaker/Temp/*
+BrickBreaker/Assembly-CSharp.csproj
+BrickBreaker/Assembly-CSharp.pidb
+BrickBreaker/Assembly-CSharp-vs.csproj
+BrickBreaker/BrickBreaker.sln
+BrickBreaker/BrickBreaker.userprefs
+BrickBreaker/BrickBreaker-csharp.sln
